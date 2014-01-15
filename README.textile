@@ -1,0 +1,13 @@
+h1. Synoptic
+
+h2. Introduction
+
+An iOS app to explore the UK MetOffice weather forecasts and push the Google Maps iOS SDK to it's limits.
+
+h2. Running the app
+
+To run the app you will need to first activate Google Maps SDK from the Cloud Console and grab an API key. You will also need to apply for an API Key from the MET Office's Datapoint service.  Once you have both keys insert them into Constants.m file in the Object folder.  Build and the Run.
+
+h2. Licence
+
+This code is released under the "GPL v3":http://www.opensource.org/licenses/GPL-3.0. To negotiate GPL-incompatible uses, feel free contact me.
